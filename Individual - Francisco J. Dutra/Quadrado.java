@@ -1,9 +1,7 @@
 public class Quadrado extends Quadrilatero {
-	
 	public Quadrado(int lados) {
 		super(lados);
 	}
-	
 	public int getLados(){
 		return super.getLado1();
 	}

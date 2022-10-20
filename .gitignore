@@ -1,0 +1,5 @@
+# arquivos de backup
+*.bak
+
+# arquivos git]
+*.git
