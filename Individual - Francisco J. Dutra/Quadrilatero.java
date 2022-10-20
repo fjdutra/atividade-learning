@@ -5,7 +5,7 @@ public abstract class Quadrilatero {
 	private int lado4;
 	
 	public String tipoFigura() {
-		return "Essa figura possui 4 Lados!";
+		return "Essa figura possui 4 Lados! ";
 	}
 	
 	public Quadrilatero(int lado1, int lado2, int lado3, int lado4) {
